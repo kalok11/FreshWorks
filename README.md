@@ -34,4 +34,4 @@ store.
 
 The "app.js" file contains the nodejs code to accomplish the above task.
 The "db.json" file is a data store where the key-value pair of data are present.
-The output of these code is shown in "output.JPG" file.
+
