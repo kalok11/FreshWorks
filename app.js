@@ -4,7 +4,7 @@ var fs = require('fs');
 
 //The key-value pair data 
 var mydata = {
-    name: 'Rohini',
+    name: 'Alok',
     bike: 'R15',
     car: 'Audi',
     snacks: 'cake',
